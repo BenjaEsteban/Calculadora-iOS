@@ -102,13 +102,13 @@
 			isa = PBXGroup;
 			children = (
 				436737CD2ACCD2E400909E2C /* AppDelegate.swift */,
+				437316302ACDB9E000F611E1 /* SceneDelegate.swift */,
 				436738142ACCD3E800909E2C /* View */,
 				436738152ACCD3F100909E2C /* Controller */,
 				436738162ACCD3FB00909E2C /* Model */,
 				436738172ACCD40300909E2C /* Util */,
 				436738182ACCD42400909E2C /* Supporting Files */,
 				436737D62ACCD2E600909E2C /* Assets.xcassets */,
-				437316302ACDB9E000F611E1 /* SceneDelegate.swift */,
 			);
 			path = "Calculadora-iOS";
 			sourceTree = "<group>";
